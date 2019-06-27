@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_save">Избранное</string>
+    <string name="title_novelties">Новости</string>
+    <string name="title_setting">Настройки</string>
+    <string name="save_title">О программе</string>
+    <string name="title_signal">Нет сети</string>
+</resources>
